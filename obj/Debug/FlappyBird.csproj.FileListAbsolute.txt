@@ -1,0 +1,10 @@
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.bird.resources
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Shubham SSD\source\repos\#0.  Use Me. Rough Work\FlappyBird\obj\Debug\FlappyBird.pdb

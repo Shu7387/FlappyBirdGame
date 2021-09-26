@@ -1,0 +1,10 @@
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\9.10.  FlappyBird ~ Windows App.csprojAssemblyReference.cache
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\FlappyBird.bird.resources
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\9.10.  FlappyBird ~ Windows App.csproj.GenerateResource.cache
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\9.10.  FlappyBird ~ Windows App.csproj.CoreCompileInputs.cache
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Shubham SSD\source\repos\#2.  C#\0.  My Experiments and Assignments ~ C# and LINQ\FlappyBird\obj\Debug\FlappyBird.pdb
